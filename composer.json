@@ -14,7 +14,7 @@
   "require": {
     "php": "^7.3|^8.0",
     "laravel/framework": "^6.0|^7.0",
-    "hpolthof/postcode-tech": "^1.0"
+    "hpolthof/postcode-tech": "^1.0|patch-1|dev-patch-1"
   },
 
   "require-dev": {
