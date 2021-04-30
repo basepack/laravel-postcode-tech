@@ -14,8 +14,15 @@
   "require": {
     "php": "^7.3|^8.0",
     "laravel/framework": "^6.0|^7.0",
-    "hpolthof/postcode-tech": "^1.0|patch-1|dev-patch-1"
+    "hpolthof/postcode-tech": "^1.0"
   },
+  
+  "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/basepack/postcode-tech.git"
+        }
+    ],
 
   "require-dev": {
     "orchestra/testbench": "^4.0"
